@@ -42,7 +42,7 @@ class _MyContentState extends State<MyContent> {
               crossAxisCount: 3,
               mainAxisSpacing: 8,
               crossAxisSpacing: 8,
-              childAspectRatio: 1.5
+              childAspectRatio: 1
           ),
           itemBuilder: (BuildContext cnt, int index) {
             return Container(
